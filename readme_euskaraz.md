@@ -1,6 +1,7 @@
 Hemen duzu euskarara itzulita, kodea, formatua eta irudien erreferentziak mantenduz:
 
 # 👾 PROIEKTUA: PIXEL MASKOTA (Tamagotchi JS)
+ 
 
 <img src="image.png" alt="alt text" width="100">
 <img src="image-1.png" alt="alt text" width="400">
